@@ -1,0 +1,10 @@
+schema: spec-driven
+
+context: |
+  Página inicial estática do Projeto ARCA (index.md, privacy.md).
+
+rules:
+  proposal:
+    - Máximo ~400 palavras, com seção Non-goals explícita.
+  tasks:
+    - Tasks em chunks verificáveis; cada task concluída deixa teste ou evidência passando.
